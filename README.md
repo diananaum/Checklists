@@ -1,7 +1,7 @@
 ## Задание
 Составление чеклиста для функциональной проверки личного кабинета зарегистрированного авторизованного пользователя, включая функционал разделов.
 
-Ознакомиться с чеклистом можно в [гугл-документе](https://docs.google.com/spreadsheets/d/1YxKhGxbm7LuVqcvanPC2FU59khhmAhY9OSbse5bWRRY/edit#gid=0) или ниже:
+Ознакомиться с чеклистом можно в [гугл-документе](https://docs.google.com/spreadsheets/d/1YxKhGxbm7LuVqcvanPC2FU59khhmAhY9OSbse5bWRRY/edit?usp=sharing) или ниже:
 
 
 
